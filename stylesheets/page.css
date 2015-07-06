@@ -22,7 +22,7 @@ html, body {
 /* in-browser preview with a nice background */
 @media screen {
   body {
-    background-color: #024;
+    background-color: #f8f6ee;
   }
   .page {
     margin: 5mm;
@@ -35,7 +35,7 @@ html, body {
   height: 297mm;
   color: #222;
   background-color: #f9f7f0;
-  transition:background-color .3s .1s;
+  transition:background-color 30s .1s;
   display: inline-block;
   position: relative;
 }
